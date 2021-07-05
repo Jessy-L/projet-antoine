@@ -1,0 +1,40 @@
+.custom-icon{
+    background-color: #484D55;
+    color: white;
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
+.custom-icon:hover{
+    transform: rotate(-360deg);
+    -webkit-transform: rotate(-360deg);
+    -moz-transform: rotate(-360deg);
+    -ms-transform: rotate(-360deg);
+    -o-transform: rotate(-360deg);
+}
+
+.content-h3{
+    height: 10px;
+    margin-left: 10px;
+}
+
+.content-icon-h3{
+    display: flex;
+    align-items: center;
+}
