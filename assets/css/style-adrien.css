@@ -1,0 +1,17 @@
+.customgreen:hover{
+    color: rgb(116, 230, 116);
+}
+.green-icon-content{
+    display: flex;
+    align-items: center;
+}
+.customgreen{
+    color: white;
+    padding: 5px;
+    border-radius: 100%;
+    background-color: #484d55;
+}
+.content-green-h3{
+    height: 10px;
+    margin-left: 10px;
+}
