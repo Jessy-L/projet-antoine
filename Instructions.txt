@@ -1,0 +1,18 @@
+1 - Corriger les fautes d'orthographe.
+2 - Traduire les textes qui ne sont pas en français.
+3 - Ajouter les images ou photos manquantes, cohérentes.
+4 - Section "Features" en survol les icones doivent faire une roation de 360° en 1sec, puis retourner dans l'autres sens en mouseover.
+5 - Faire fonctionner le formulaire, de façon à ce qu'un email de confirmation soit envoyé lorceque le formulaire est validé.
+6 - Les ancres doivent être fonctionnelles (menu en haut de page)
+7 - Les îcones à côté du formulaire doivent changer de couleur lorsqu'on survole une partie ex : Adresse, l'icone "maiiiison" devient verte.
+8 - Intégrer un bouton pour revenir en haut de page.
+10 - Section introduction, à chaques refresh de la page une couleur aléatoire (texturé : shadow, filter...) apparait. EX : je l'ouvre la partie est bleu, je l'ouvre a nouveau elle est rose... (utilisé un random en JS pour écrire les codes couleurs directement de type XX YY ZZ)
+
+BONUS :
+11 - Intégrer un plugin de lecture de musique (il y en a plein de gratuit, ou youtube) Discret qui reste ancrer à la vue de l'utilisateur.
+
+MEGA BONUS :
+12 - Intégré un plugin de chat en direct ancrée.
+
+
+
