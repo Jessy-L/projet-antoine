@@ -1,4 +1,4 @@
-.icon{
+.custom-icon{
     background-color: #484D55;
     color: white;
     font-size: 50px;
@@ -21,7 +21,7 @@
     -o-transition: 1s;
 }
 
-.icon:hover{
+.custom-icon:hover{
     transform: rotate(-360deg);
     -webkit-transform: rotate(-360deg);
     -moz-transform: rotate(-360deg);
